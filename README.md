@@ -3,13 +3,13 @@ GO TIME! - is a 3D JavaScript game, which is included three.js library.  This ga
 
 Features of the game: 
 
-• Score of the distance 
-• Collecting crystals, which you can exchange for new characters 
-• Levels system 
-• High/Low speed, which is depending on level 
-• Music - song “Go time” - typo.s 
-• Mouse arrow control system 
-• 3D integration minimal interface 
+Score of the distance 
+Collecting crystals, which you can exchange for new characters 
+Levels system 
+High/Low speed, which is depending on level 
+Music - song “Go time” - typo.s 
+Mouse arrow control system 
+3D integration minimal interface 
 
 
 Recommendation for the game: 
