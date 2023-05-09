@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>GO TIME! &#8987;</title>
+		<link rel="stylesheet" href="css.css"/>
+		<script src="main.js"></script>
+		<script src="TweenMax.min.js"></script>
+		<script src="three.min.js"></script>
+	</head>
+	<body>
+		<div class="container" id="container">
+			<div class="header">
+				<h1>GO TIME!</h1>
+				<div class="main" id="main">
+					<div class="level" id="level">
+						<div class="label">level</div>
+						<div class="number number--level" id="levelNumber">1</div>
+					</div>
+					<div class="level" id="distance">
+						<div class="label">distance</div>
+						<div class="number number--distance" id="distance">0000</div>
+					</div>
+					<div class="level" id="fuel">
+						<div class="label">fuel</div>
+						<div class="number number--fuel" id="fuel">
+							<div class="fuelCount" id="fuelCount"></div>
+						</div>
+					</div>
+					<form action="rules.html">
+                        <button class="button">how to play</button>
+                    </form>
+					<form action="shop.html">
+                        <button class="button1">go to shop</button>
+                    </form>
+				</div>
+			</div>
+			<div class="restart" id="restart">Restart</div>
+			<div class="totalScore" id="totalScore">Total Score</div>
+			<div class="gameScene" id="gameScene"></div>
+		</div>
+	</body>
+</html>
